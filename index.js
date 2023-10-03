@@ -1,6 +1,6 @@
 /*
 Alfonso Reviejo Valle
-GitHub: 
+GitHub: https://github.com/alfonn13/ActividadNoEvaluable
 */
 
 const numero = prompt("Ingrese el numero: ");
